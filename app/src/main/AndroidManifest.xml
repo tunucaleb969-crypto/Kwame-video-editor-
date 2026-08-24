@@ -7,7 +7,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="CapCutLite"
+        android:label="Caleb Media"
         android:theme="@style/Theme.Material3.DayNight">
         <activity
             android:name=".MainActivity"
