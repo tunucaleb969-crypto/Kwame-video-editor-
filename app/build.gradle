@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.dashlantern.capcutlite'
+    namespace 'com.calebmedia'
     compileSdk 34
 
     defaultConfig {
